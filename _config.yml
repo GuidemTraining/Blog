@@ -29,15 +29,15 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: guidemtraining # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: guidemtraining # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: GuideM
   email: training@guidem.ph # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -46,6 +46,7 @@ social:
     # Uncomment below to add more social links
      - https://www.facebook.com/guidemtraining
      - https://www.linkedin.com/in/guidemtraining
+     - https://academy.guidem.ph
 
 google_site_verification: # fill in to your verification string
 
