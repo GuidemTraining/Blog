@@ -46,7 +46,7 @@ social:
     # Uncomment below to add more social links
      - https://www.facebook.com/guidemtraining
      - https://www.linkedin.com/in/guidemtraining
-     - https://academy.guidem.ph
+    # - https://academy.guidem.ph
 
 google_site_verification: # fill in to your verification string
 
